@@ -9,6 +9,13 @@
 
 <br>
 
+<!-- Contador de Visualizações do Perfil -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GustavoPeres&color=orange&style=flat" alt="Visualizações do Perfil" />
+</p>
+
+<br>
+
 <h3 align="center">Ferramentas & Tecnologias</h3>
 
 <p align="center">
